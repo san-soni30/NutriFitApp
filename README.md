@@ -1,15 +1,3 @@
-I took a look at the repository **san-soni30/NutriFit** on GitHub. While I couldn't access the contents of the code files themselves, I was able to gather the following high-level info:
-
-* The repository exists under the username **san-soni30** and is named **NutriFit**. It currently has **0 stars**, **0 forks**, and **0 watchers**.([GitHub][1])
-* It contains at least two branches: **admin-frontend** and **user-frontend**.([GitHub][1])
-* The predominant languages used are **JavaScript (\~91%)**, **HTML (\~5%)**, and **CSS (\~4%)**.([GitHub][1])
-
-
-
-## Suggested `README.md` for NutriFit
-
-Here's a polished draft of a `README.md` structure you could use—customize it as needed once you’ve filled in specific details about installation, usage, and functionality:
-
 # NutriFit
 
 A modular, frontend-focused web application for personalized nutrition management—featuring separate **Admin** and **User** interfaces.
