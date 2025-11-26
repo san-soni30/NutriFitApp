@@ -23,7 +23,7 @@ export default function Blog() {
       title: "The Truth About Carbs and Weight Loss",
       image: "https://images.unsplash.com/photo-1510626176961-4b57d4fbad03?auto=format&fit=crop&w=800&q=80",
       description: "A blog about nutrition and superfoods",
-      tags: ["health"],
+      tags: ["health", "weight-loss"],
       submittedAt: new Date()
     },
     {
