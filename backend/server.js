@@ -17,6 +17,8 @@ app.use("/api/appointments", require("./routes/appointmentRoutes"));
 
 app.use("/api/blogs", require("./routes/blogRoutes"));
 
+app.use("/api/feedback", require("./routes/feedbackRoutes"));
+
 app.get("/", (req, res) => {
   res.send("Hello from Express server!");
 });
